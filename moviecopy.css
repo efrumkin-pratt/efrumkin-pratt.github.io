@@ -1,0 +1,58 @@
+
+
+body {
+  background-color: lightblue;
+     text-align: left;
+    height: 25px;
+}
+
+ul {
+    text-align-last: left;
+}
+
+ol  {
+    text-align-last: left;
+}
+
+img {
+     display: flex;
+  place-items: center;
+  height: 600px;
+  border: 1px solid black;
+    align-content: center;
+}
+
+
+h1 {
+  color: rgb(255, 54, 0);
+
+}
+
+h2 {
+    font-size: medium;
+font-family: Georgia;}
+
+h3 {
+    text-align-last: center;
+    font-size: medium;
+    font-family: Segoe UI;
+}
+
+h4 {
+    font-family: Calibri;
+    font-size: large
+}
+
+table {
+    text-align-last: left;
+    border-style: groove;
+    font-family: Tahoma;
+    font-size: smaller;
+table, th, td {
+  border: 12px solid;
+    border-width: small;
+    border-color:  mediumpurple
+}}
+
+
+
