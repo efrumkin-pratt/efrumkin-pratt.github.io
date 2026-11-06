@@ -1,14 +1,21 @@
 
 
+
+
 body {
   background-color: lightblue;
      text-align: left;
     height: 25px;
 }
 
-ul {
-    text-align-last: left;
-}
+
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
 
 ol  {
     text-align-last: left;
@@ -53,6 +60,5 @@ table, th, td {
     border-width: small;
     border-color:  mediumpurple
 }}
-
 
 
